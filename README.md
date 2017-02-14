@@ -1,2 +1,2 @@
-# Cub-Information
-Club Information
+# Club-Information
+Club Information and Scheduling
