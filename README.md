@@ -1,6 +1,4 @@
-# Club-Information
-
-## Club Description
+## Description
 
 The point of this club is to inspire interest in web applications.
 
