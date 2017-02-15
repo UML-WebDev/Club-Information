@@ -1,10 +1,10 @@
 # Reference
 
-A rough guide on how to make the best of this club and be prepared. 
+A rough guide on how to make the best of this club and be prepared.
 
 ----
 ## Basic Understanding of HTML/CSS/JS
-You certainly don't have to be an expert, but having a basic understanding of what they are and what their roles are will help you learn faster.
+You certainly don't have to be an expert, but having a basic understanding of what they are and what their roles is will help you learn faster.
 
 #### Resources
 * https://www.codecademy.com/
@@ -22,7 +22,9 @@ You should have a basic text editor installed in order to follow along with code
 Atom is super easy to use, clean, hackable, and made by Github. It's what most of us program with and is a great choice.
 
 * ##### [VSCode](https://code.visualstudio.com/)
+ 
 * ##### [Sublime Text](https://www.sublimetext.com/)
+
 * ##### [Brackets](http://brackets.io/)
 
 ## Install Git
