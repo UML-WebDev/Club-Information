@@ -22,7 +22,7 @@ You should have a basic text editor installed in order to follow along with code
 Atom is super easy to use, clean, hackable, and made by Github. It's what most of us program with and is a great choice.
 
 * ##### [VSCode](https://code.visualstudio.com/)
- 
+
 * ##### [Sublime Text](https://www.sublimetext.com/)
 
 * ##### [Brackets](http://brackets.io/)
@@ -30,7 +30,7 @@ Atom is super easy to use, clean, hackable, and made by Github. It's what most o
 ## Install Git
 Git is a version control system for tracking changes in files and coordinating work on those files among multiple people.
 
-Git is really important to understand and be comfortable with in order to be successful in the world of modern software development.
+It is really important to understand and be comfortable with Git in order to be successful in the world of modern software development.
 
 ### Guide
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
