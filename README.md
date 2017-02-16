@@ -1,3 +1,5 @@
+![umass lowell][logo]
+
 ## Table of Contents
 * [Reference](./Reference.md)
 
@@ -34,3 +36,5 @@ Contact me at tyler_bainbridge@student.uml.edu if you’re interested!
 [@tj-tracy](https://github.com/tj-tracy)
 
 *thomas_tracy@student.uml.edu*
+
+[logo]: http://i.imgur.com/ouemTLbt.png
