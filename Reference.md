@@ -5,7 +5,7 @@ A rough guide on how to make the best of this club and be prepared.
 ----
 ## Basic Understanding of HTML/CSS/JS
 ##### What is this?
-You certainly don't have to be an expert, but having a basic understanding of what they are and what their roles is will help you learn faster.
+You certainly don't have to be an expert, but having a basic understanding of what they are and what their roles are will help you learn faster.
 
 #### Resources
 * https://www.codecademy.com/
