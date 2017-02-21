@@ -23,7 +23,7 @@ Contact me at tyler_bainbridge@student.uml.edu if you’re interested!
 *tyler_bainbridge@student.uml.edu*
 
 **Vice President** - James Erardi
-[@jweardi](https://github.com/jweardi)
+[@jwerardi](https://github.com/jwerardi)
 
 *james_erardi@student.uml.edu*
 
